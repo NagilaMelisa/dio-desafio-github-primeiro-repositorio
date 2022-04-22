@@ -1,3 +1,4 @@
 # dio-desafio-github-primeiro-repositorio
 Repositório criado para Desafio de Projeto.
-Desafio de Projteto sobre Git/Github
+Links Úteis
+Sintaxe Básica https://www.markdownguide.org/getting-started/
